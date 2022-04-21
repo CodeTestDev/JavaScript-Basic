@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript run in browser site</title>
+  </head>
+  <body>
+    <script>
+      console.log('hello',10);
+      let firstNumber=parseInt(prompt("Please enter First Number"));
+      let secondNumber=parseInt(prompt("Please enter Second Number"));
+      if(isNaN(firstNumber)){
+        firstNumber=0;
+      }
+      if(isNaN(secondNumber)){
+        secondNumber=0;
+      }
+      console.log(firstNumber,secondNumber);
+      if(firstNumber>secondNumber){
+        console.log("your enter First Number is big.",firstNumber);
+      }else{
+        console.log("your enter second Number is big.",secondNumber);
+      }
+    </script>
+  </body>
+</html>
