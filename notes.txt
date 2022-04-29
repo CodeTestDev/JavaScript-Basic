@@ -1,0 +1,50 @@
+JavaScript  Topices 
+
+1. Variable  
+2. keyword 
+	Variable declration in JavaScript 
+	keyword 
+	1. var variableNamex
+	2. let variableNamey
+	3. const variableNamez
+	
+1.1 Variable Scope 
+
+3. Data Type's 
+
+4. Operator's
+	1. Normal 
+	2. arthomatic 
+	3. Assignment 
+	4. Comparison Operators 
+	5. Logical Operators
+
+5. Conditional Statements
+	1. if 
+	2. if else 
+	3 if else if  ladder 
+	4. if else -  Nested if
+	5 switch 
+	6 turnary Statemnets  
+6 Array 
+	1.index 
+	2. object // (associative array  or named array  -> other programing laungages )
+	3. Array of Array
+	4. Object of Object 	
+	5.array of object 
+	6.object of array 
+7 Loops 
+	condition base itration 
+	1. for 
+	2. while 
+	3. do while 
+	
+	data base itration 
+	4. for in
+	5. for of 
+	6. forEach
+	7. map 
+
+	8. Nested Loops
+	 
+	

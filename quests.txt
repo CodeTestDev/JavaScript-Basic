@@ -1,0 +1,27 @@
+1. Write a program to check leep year 
+2. Write a programm to find eve and old nuber 
+3. Write a program for Check Whether a Character is a Vowel or Consonant
+
+4. Write a program for show any number table  with help of for while .     
+5. Write a program to display the n number of odd natural number and their sum .
+6. Write a paramide give blewo	*
+*
+**
+***   n tag 
+7. Write a paramide give blewo	*
+*** n tag
+**
+*
+8. Write a paramide give blewo	*
+*
+***
+******   n
+9. Write a paramide give blewo	*
+*****  n
+***
+*
+10. Write a paramide give blewo	*
+	*****   n
+	 ***
+	  *
+ 

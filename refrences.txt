@@ -1,0 +1,5 @@
+1. predefind keyword and variables 
+	( reserved words )
+	https://www.dummies.com/article/technology/programming-web-design/javascript/javascript-for-kids-for-dummies-cheat-sheet-207485/
+2. Varialbe declaration rule 
+	https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/
